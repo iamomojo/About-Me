@@ -9,7 +9,7 @@ I love to solve problems and my favourite subjects have elements of Math in them
 
 I love arranging spaces. Lastly, I love learning. 
 
-My Technical Skills:  
+#### My Technical Skills:  
 ERP— SAP   
 Cloud—MS Azure| Anaplan  
 Diagramming— Lucid Chart | Visio  
